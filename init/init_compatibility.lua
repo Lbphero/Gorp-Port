@@ -1,0 +1,1 @@
+-- AddPrefabPostInit("world", function(inst)
